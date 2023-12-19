@@ -32,22 +32,22 @@ Attendance based on Face Recognition using Python  and OpenCv
 ### Screenshots
 
 ### Basic UI
-<img src="https://github.com/Khangpolx12/Take-attendance-by-facial-recognition/Take-attendance-by-facial-recognition/Screenshot(1).png">
+<img src="https://github.com/Khangpolx12/Take-attendance-by-facial-recognition/blob/main/Take-attendance-by-facial-recognition/Screenshot(1).png">
 
 ### When pressing a button Take image
-<img src="https://github.com/Khangpolx12/Take-attendance-by-facial-recognition/Take-attendance-by-facial-recognition/Screenshot%20(2).png">
+<img src="https://github.com/Khangpolx12/Take-attendance-by-facial-recognition/blob/main/Take-attendance-by-facial-recognition/Screenshot%20(2).png.bmp">
 
 ### When pressing a button Train image
-<img src="https://github.com/Khangpolx12/Take-attendance-by-facial-recognition/Take-attendance-by-facial-recognition/Screenshot%20(3).png">
+<img src="https://github.com/Khangpolx12/Take-attendance-by-facial-recognition/blob/main/Take-attendance-by-facial-recognition/Screenshot%20(3).png.bmp">
 
 ### When it Recognises me when i pressing a button Automatic Attendance
-<img src="https://github.com/Khangpolx12/Take-attendance-by-facial-recognition/Take-attendance-by-facial-recognition/Screenshot%20(4).png">
+<img src="https://github.com/Khangpolx12/Take-attendance-by-facial-recognition/blob/main/Take-attendance-by-facial-recognition/Screenshot%20(4).png">
 
 
 ### Manually attendance filling UI error that cannot be resolved
 
 ### When pressing a button Check registered student
-<img src="https://github.com/Khangpolx12/Take-attendance-by-facial-recognition/Take-attendance-by-facial-recognition/Screenshot%20(6).png">
+<img src="https://github.com/Khangpolx12/Take-attendance-by-facial-recognition/blob/main/Take-attendance-by-facial-recognition/Screenshot%20(6).png">
 
 
 
